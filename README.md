@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hello, I'm YunHyeok 😉&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hello,&nbsp;I'm&nbsp;YunHyeok&nbsp;😉&fontSize=60)
 
 <div align='center'>
   <h3>🧐 Introduction</h3>
