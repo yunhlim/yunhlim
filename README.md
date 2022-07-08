@@ -40,7 +40,7 @@
 
 <div align='center'>
   <h3>🔍 Links</h3>
-  <p>blog : <a href="https://velog-readme-stats.vercel.app/api?name=yunhlim">yunhlim.log</a></p>
+  <p>blog : <a href="https://velog.io/@yunhlim">yunhlim.log</a></p>
   <p>email : yunh04131@gmail.com</p>
 </div>
 
